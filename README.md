@@ -18,7 +18,11 @@ Here is a screenshot of the app:
 ### Video Demo:
 You can watch a demo of the application in action by clicking the link below:
 
-[Watch the demo video](assets/demo.mp4)
+<video width="320" height="240" controls>
+  <source src="assets/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 ---
 

@@ -13,12 +13,12 @@ This is a simple Todo List web application built using HTML, CSS, and JavaScript
 
 Here is a screenshot of the app:
 
-![Todo List Screenshot](image.png)
+![Todo List Screenshot](assets/image.png)
 
 ### Video Demo:
 You can watch a demo of the application in action by clicking the link below:
 
-[Watch the demo video](video_url_here)
+[Watch the demo video](assets/demo.mp4)
 
 ---
 

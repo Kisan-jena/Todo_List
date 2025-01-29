@@ -18,10 +18,8 @@ Here is a screenshot of the app:
 ### Video Demo:
 You can watch a demo of the application in action by clicking the link below:
 
-<video width="320" height="240" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo video](https://github.com/your-username/Todo_List/raw/main/assets/demo.mp4)
+
 
 
 ---

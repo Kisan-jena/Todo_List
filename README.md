@@ -18,7 +18,7 @@ Here is a screenshot of the app:
 ### Video Demo:
 You can watch a demo of the application in action by clicking the link below:
 
-[Watch the demo video](https://github.com/your-username/Todo_List/raw/main/assets/demo.mp4)
+[Watch the demo video](assets/demo.mp4)
 
 
 

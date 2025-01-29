@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Todo List</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>Todo List</h1>
+
+  <div id="main"></div>
+
+  <div id="inp-container">
+    <input id="inp" type="text" placeholder="Enter your todo...">
+    <button onclick="addTodo()">Add Todo</button>
+  </div>
+
+  <div id="undo-container">
+    <button class="undo-button" onclick="undoDelete()">Undo</button>
+    <button class="undo-button" onclick="redoDelete()">Redo</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
